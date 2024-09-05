@@ -1,3 +1,5 @@
+[//]: # (ctrl+K V to open preview pane)
+
 # **CPEN 221 Lecture 1: Introduction**
 ## September 5 2024
 
