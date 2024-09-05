@@ -22,7 +22,7 @@ OOP is based around the concept of creating *objects*, each containing its own v
 3. Test Code
 4. Debug
 5. Fix Errors
-6. Rinse and Repeat
+6. Rinse and Repeat+
 
 [//]: # (This may be the most platform independent comment)
 
