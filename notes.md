@@ -22,7 +22,7 @@ OOP is based around the concept of creating *objects*, each containing its own v
 5. Fix Errors
 6. Rinse and Repeat
 
-[//]: # (This may be the m`ost platform independent comment)
+[//]: # (This may be the most platform independent comment)
 
 <p style="color:cyan">omg cyan text</p>
 
